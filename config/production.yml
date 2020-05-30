@@ -1,0 +1,5 @@
+server:
+  origin: http://nest-js-front-application.s3-website-eu-west-1.amazonaws.com
+
+db:
+  syncronize: false
